@@ -72,25 +72,28 @@ body{
 }
 
 .resume_wrapper .resume_namerole .name{
-	font-size: 25px;
-    font-style: normal;
+	font-size: 50px;
 	color: #fff;
-	font-weight: 700;
     text-align: center; 
-	margin-bottom: 5px;
+	margin-bottom: 7px;
 	letter-spacing: 6px;
     display: block; 
-    font-family: "Playwrite HR Lijeva", cursive;
+	font-family: "Dancing Script", serif;
+	font-style: normal;
+	font-weight: 700;
+
 
 }
 
 .resume_wrapper .resume_namerole .role{
-    font-size: 20px;
+    font-size: 30px;
     font-style: normal;
 	color: #fff;
-	font-weight: 700;
+	font-weight: 70px;
     text-align: center;
     padding: 5px;
+	font-weight: 500; 
+
 
 }
 
@@ -132,8 +135,9 @@ body{
 }
 
 .resume_wrapper .resume_right .resume_namerole .name{
+	font-size: 50px;
 	color: #26252d;
-	font-size: 40px;
+	font-style: normal;
 }
 
 .resume_wrapper .resume_right .resume_namerole .role{
@@ -145,6 +149,7 @@ body{
 
 .resume_wrapper .resume_right .resume_item .resume_title{
 	color: #26252d;
+	font-weight: 700;
 }
 
 .resume_wrapper .resume_right .resume_data{
@@ -185,7 +190,7 @@ body{
     top: 17px;
     right: 4px;
     width: 3px;
-    height: 90%;
+    height: 170%;
     background: #0175b2;
 }
 
